@@ -1,0 +1,16 @@
+# SolidWorks temporary files
+*.sldprt~
+*.sldasm~
+*.slddrw~
+*.sldlfp
+
+# AutoCAD temporary files
+*.bak
+*.sv$
+*.ac$
+*.dwl
+*.dwl2
+
+# Windows system files
+Thumbs.db
+*.tmp
