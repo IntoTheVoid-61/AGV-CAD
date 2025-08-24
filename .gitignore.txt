@@ -14,3 +14,4 @@
 # Windows system files
 Thumbs.db
 *.tmp
+.env
