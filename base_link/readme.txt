@@ -1,5 +1,3 @@
-##DESCRIPTION
-
 This folder contains the specific assemblies and the required parts for the given assembly that make up the base_link.
 Those files can be found in the base folder.
 
